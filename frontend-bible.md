@@ -1,4 +1,4 @@
-Underlying philosophy
+## Underlying philosophy
 
 Why does one project within an organization flourish while another project with the same fundamental architectural needs, within the same organization, flounders? Often, the root of the problem is a lack of overarching standard that keeps development on a steady and smooth line. What we aim to achieve here as a team; is a progressive and collective effort of creating a grade-A software product; the one that we are not afraid to modify and extend; the one that we are not horrified to refactor. This, my child, is the art of software engineering. This document aims to shed lights on fundamental standards that we have defined here at Ezyvet. Before getting into actual coding decision and dos and don’ts, we first need to review our underlying philosophy towards development. Here are 17 philosophies that we stick to at any cost (heavily inspired by the Zen of Python):
 
