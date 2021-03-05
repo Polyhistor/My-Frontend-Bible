@@ -40,7 +40,7 @@ Introduction
 
 This document aims to increase constancy to best practices and leads devs away from anti-patterns. For that purpose please read this document carefully and reach out to the frontend tech lead whenever necessary.
 
-1. Commenting Code
+# 1. Commenting Code
 
 Readability is one of the most important factors for any enterprise application. Why?
 
