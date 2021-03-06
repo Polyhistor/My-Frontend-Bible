@@ -48,7 +48,7 @@ Reason #1
 
 In an organization, we work in a team; different people work on different parts of the project. It’s hard to fathom the whole system on top of your head, thus help the fellow dev with clear and succinct comments.
 
-Reason #2
+## Reason #2
 
 This will help you understand what you’ve done as well. Especially if it involves some complex logic. Reason #3
 
