@@ -70,7 +70,7 @@ If you had complicated operations, always use @example, write code like you care
 
 Read more here.
 
-2. Module Importing
+# 2. Module Importing
 
 Imports should be categorised for increased readability. Below is an example of module importing categories:
 
